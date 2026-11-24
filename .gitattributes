@@ -1,0 +1,2 @@
+# The pinned snapshot is byte-hashed; never normalize its original line endings.
+upstream/** -text

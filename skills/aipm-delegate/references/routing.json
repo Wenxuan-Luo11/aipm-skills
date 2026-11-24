@@ -1,0 +1,26 @@
+{
+  "schema_version": 1,
+  "profiles": {
+    "routine": {
+      "model": "gpt-6.1-sol",
+      "effort": "low"
+    },
+    "visual": {
+      "model": "gpt-6.1-terra",
+      "effort": "low"
+    },
+    "deep": {
+      "model": "gpt-6.2-astra",
+      "effort": "high"
+    }
+  },
+  "read_roles": [
+    "explore",
+    "review",
+    "critique"
+  ],
+  "write_roles": [
+    "implement"
+  ],
+  "note": "Model candidates, not an availability guarantee; no silent fallback."
+}
