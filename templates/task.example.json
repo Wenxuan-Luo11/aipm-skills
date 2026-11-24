@@ -1,0 +1,13 @@
+{
+  "id": "read-package",
+  "goal": "Read README.md and report verified capabilities separately from planned capabilities. Do not modify files.",
+  "workspace": "..",
+  "role": "review",
+  "complexity": "routine",
+  "entry_files": [
+    "README.md"
+  ],
+  "allowed_paths": [],
+  "checks": [],
+  "outputs": []
+}

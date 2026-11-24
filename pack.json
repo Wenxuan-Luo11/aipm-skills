@@ -1,0 +1,15 @@
+{
+  "name": "aipm-dev-skills",
+  "version": "0.1.0-beta.2",
+  "skills": [
+    "product-discovery",
+    "aipm-explore",
+    "aipm-plan",
+    "aipm-delegate",
+    "aipm-code-review",
+    "aipm-bug-fix",
+    "aipm-govern",
+    "delivery-check",
+    "telemetry-audit"
+  ]
+}
